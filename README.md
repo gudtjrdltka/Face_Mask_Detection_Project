@@ -6,7 +6,7 @@ Covid-19 Face Mask Detection Project
 : Detecting correct, incorrectly mask and no mask  
 : Using Mask Classifier(MobileNetV2) and face detector(SSD in OpenCV)  
 
-: 3 Labels(correct, incorrectly mask and no mask)로 구분하는 Mask Detector(Mask Classifier + Face Detector)을 구현하였습니다.  
+: 3 Labels(correct, incorrectly mask and no mask)로 구분하는 Mask Detector(Mask Classifier + Face Detector)를 구현하였습니다.  
 
 [File & Folder]  
 1) models(folder)
@@ -17,7 +17,7 @@ Covid-19 Face Mask Detection Project
 
 3) Try.py
 * tensorflow 2.3.0  
-* Mask Classifier, Face Detector 모델을 불러와서 비디오 혹은 실시간 영상(웹캠)에 대해 Mask Detection을 수행합니다.
+* Mask Classifier, Face Detector을 불러와서 비디오 혹은 실시간 영상(웹캠)에 대해 Mask Detection을 수행합니다.
 
 4) mask_classifier.ipynb
 
