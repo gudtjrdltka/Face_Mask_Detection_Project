@@ -9,7 +9,7 @@ Covid-19 Face Mask Detection Project
 : 3 Labels(correct, incorrectly mask and no mask)로 구분하는 Mask Detector(Mask Classifier + Face Detector)을 구현하였습니다.  
 
 [File & Folder]  
-1) modelS(folder)
+1) models(folder)
 * model: Mask Classifier(MobileNetV2) - Finetuned to classify 3 labels
 * res10_300x300_ssd_iter_140000.caffemodel: Face Detector(in OpenCV)
 
